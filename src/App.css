@@ -1,0 +1,19 @@
+body{
+    /* background-image: url('../public/img/bg3.jpg'); */
+    background-color: #0ce2d0;
+    background-attachment: fixed;
+    background-size: auto;
+    /* background-repeat: repeat-x; */
+    font-family: 'Merriweather', serif;
+  
+  
+}
+
+.card_img img:hover{
+transform: scale(1.1);
+}
+@media(max-width:768px){
+    .mybtn{
+        margin:10px 3px;
+    }
+}
